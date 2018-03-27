@@ -20,6 +20,10 @@ public class dhg {
             }
         }
         else
+        	
+        	
+        	
+        	
         {
             equalOrNot = true;
         }
@@ -27,12 +31,13 @@ public class dhg {
         if (equalOrNot)
         {
             System.out.println("Two Arrays Are Equal");
+            System.out.println("Two Arrays Are Equal hai ");
         }
         else
         {
             System.out.println("Two Arrays Are Not equal");
             System.out.println("Two Arrays Are Not equal");
-            System.out.println("Two Arrays Are Not equal");
+            System.out.println("Two Arrays Are Not nahi equal");
         }
     }
 }
